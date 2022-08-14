@@ -3,3 +3,7 @@ name: DailyCoinsTax
 version: ${pluginVersion}
 author: dkim19375
 description: Removes 1% of every player's coins every day
+commands:
+  takecoinstax:
+    description: Removes 1% of every player's coins
+    permission: dailycoinstax.command
