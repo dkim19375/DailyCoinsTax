@@ -47,7 +47,7 @@ dependencies {
 
     compileOnly(fileTree("libs"))
 
-    implementation("io.github.dkim19375:dkim-bukkit-core:3.3.42") {
+    implementation("io.github.dkim19375:dkim-bukkit-core:3.3.43") {
         exclude(group = "org.jetbrains.kotlin")
         exclude(group = "org.jetbrains.kotlinx")
     }
