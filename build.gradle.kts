@@ -6,7 +6,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "7.1.2"
 }
 
-val KT_VER = "1.7.10"
+val KT_VER = "1.7.20"
 
 group = "me.dkim19375"
 version = "1.0.2"
