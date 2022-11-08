@@ -1,12 +1,12 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.7.20"
+    kotlin("jvm") version "1.7.21"
     id("org.cadixdev.licenser") version "0.6.1"
     id("com.github.johnrengelman.shadow") version "7.1.2"
 }
 
-val KT_VER = "1.7.20"
+val KT_VER = "1.7.21"
 
 group = "me.dkim19375"
 version = "1.0.2"
